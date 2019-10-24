@@ -3,3 +3,6 @@ This is the first file for project named as faq.txt
 This is a new line added a 14:41
 
 This is a new line added at 14:55
+
+This is exclusively written for new branch newone and is not seen in master untill we merge newone with master.
+
